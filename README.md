@@ -1,7 +1,7 @@
 # Movie-Trailer-Website
 **v1.0** *Project Movie Trailer Website*
 
-This project was developed under the **Full-Stack-Developer Nano Degree Program** offered by Udacity.
+This project was developed under the [**Full-Stack-Developer Nano Degree Program**](https://www.udacity.com/course/nd004) offered by Udacity.
 
 **Table of contents**
 -----------------------------------------------------------
