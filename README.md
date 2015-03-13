@@ -19,7 +19,7 @@ Follow the steps:
   3. Type the python command: python entertainment-center.py, which will open the default browser shown as in the picture below.
   
  
-![alt text](https://github.com/biratrai/Movie-Trailer-Website/blob/master/Success%20scenario/Screen%20Shot%202015-03-13%20at%2012.18.10%20PM.png)  
+![alt text](https://github.com/biratrai/Movie-Trailer-Website/blob/master/Success%20scenario/success_result.png)  
 
 
 
