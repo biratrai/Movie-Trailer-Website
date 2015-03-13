@@ -1,3 +1,4 @@
+"""Render Fresh Tomatoes webpage content."""
 import webbrowser
 import os
 import re
@@ -138,7 +139,7 @@ main_page_content = '''
     <div class="modal" id="story_line">
       <div class="modal-dialog">
         <div class="modal-content">          
-          <div class="scale-media" id="movie-story-line" style="background:#5ACBDA;padding:30px">
+          <div class="scale-media" id="movie-story-line" style="background:#91FFC8;padding:30px">
           </div>
         </div>
       </div>
