@@ -11,6 +11,6 @@ This project includes three python files:
 - entertainment_center.py 
 - fresh_tomatoes.py
 
-![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
