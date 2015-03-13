@@ -20,7 +20,7 @@ Follow the steps:
   
  
   
-
+https://github.com/biratrai/Movie-Trailer-Website/blob/master/Success%20scenario/Screen%20Shot%202015-03-13%20at%2012.18.10%20PM.png
 
 
 
